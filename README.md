@@ -5,4 +5,4 @@ This is a proof of concept that it would be possible to emulate a Dark and Darke
 ## Try it yourself
 Download the [proof-of-concept.zip](https://github.com/gookie-dev/DarkAndDarkerServerEmulator/releases/download/0.1/proof-of-concept.zip) and unpack it into the Dark and Darker Demo folder. Now start the DarkAndDarkerServerEmulator.exe
 
-Check demo [here](https://bit.ly/3ZEUkxp).
+Check demo [here]([https://bit.ly/3ZEUkxp](https://i.imgur.com/Ik7KXVF.gif)).
